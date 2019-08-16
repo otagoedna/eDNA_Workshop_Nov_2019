@@ -16,7 +16,7 @@ The aim of the meeting is to catch up on aspects of environmental DNA, focusing 
 
 * [Susie Wood, Cawthron Institute, Nelson, New Zealand](https://www.cawthron.org.nz/people/2-susie-wood/)
 
-* Anastasija Zaiko, Cawthron Institute, Nelson, New Zealand
+* [Anastasija Zaiko, Cawthron Institute, Nelson, New Zealand](https://www.cawthron.org.nz/people/149-anastasija-zaiko/)
 
 
 ## Preliminary Schedule 
