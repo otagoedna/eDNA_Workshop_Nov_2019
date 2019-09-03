@@ -12,7 +12,7 @@ The aim of the meeting is to catch up on aspects of environmental DNA, focusing 
 
 * [Dianne Gleeson, University of Canberra, Canberra, Australia](https://researchprofiles.canberra.edu.au/en/persons/dianne-gleeson)
 
-* Alicia Grealy, Australian National University, Canberra, Australia
+* [Alicia Grealy, Australian National University, Canberra, Australia](https://biology.anu.edu.au/people/alicia-grealy)
 
 * [Tina Summerfield, University of Otago, New Zealand](https://www.otago.ac.nz/plant-biotechnology/people/profile/tinasummerfield.html)
 
