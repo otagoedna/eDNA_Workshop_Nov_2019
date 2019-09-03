@@ -10,7 +10,7 @@ The aim of the meeting is to catch up on aspects of environmental DNA, focusing 
 
 ## Confirmed Speakers
 
-* Dianne Gleeson, University of Canberra, Canberra, Australia
+* [Dianne Gleeson, University of Canberra, Canberra, Australia](https://researchprofiles.canberra.edu.au/en/persons/dianne-gleeson)
 
 * Alicia Grealy, Australian National University, Canberra, Australia
 
