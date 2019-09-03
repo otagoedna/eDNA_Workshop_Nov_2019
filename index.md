@@ -14,6 +14,8 @@ The aim of the meeting is to catch up on aspects of environmental DNA, focusing 
 
 * Alicia Grealy, Australian National University, Canberra, Australia
 
+* [Tina Summerfield, University of Otago, New Zealand](https://www.otago.ac.nz/plant-biotechnology/people/profile/tinasummerfield.html)
+
 * [Susie Wood, Cawthron Institute, Nelson, New Zealand](https://www.cawthron.org.nz/people/2-susie-wood/)
 
 * [Anastasija Zaiko, Cawthron Institute, Nelson, New Zealand](https://www.cawthron.org.nz/people/149-anastasija-zaiko/)
