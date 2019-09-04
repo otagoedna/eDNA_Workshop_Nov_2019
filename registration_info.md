@@ -1,6 +1,6 @@
 # Registration
 
-A link to register and submit abstracts will be added shortly! Please [email Hugh](hugh.cross@otago.ac.nz) for more information.
+A link to register and submit abstracts will be added shortly! Please [email Hugh](mailto:hugh.cross@otago.ac.nz) for more information.
 
 ## Accommodation
 
