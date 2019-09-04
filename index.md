@@ -20,6 +20,12 @@ The aim of the meeting is to catch up on aspects of environmental DNA, focusing 
 
 * [Anastasija Zaiko, Cawthron Institute, Nelson, New Zealand](https://www.cawthron.org.nz/people/149-anastasija-zaiko/)
 
+## Registration Information
+
+Registration will be open shortly. Go this link to register and for accommodation information:
+
+[**eDNA Workshop Registration Page**](registration_info.md)
+
 
 ## Preliminary Schedule 
 
