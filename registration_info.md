@@ -1,12 +1,16 @@
 # Registration
 
-A link to register will be added shortly! Please [email Hugh](mailto:hugh.cross@otago.ac.nz) for more information.
+Please go to the following page to register
+
+[**eDNA Workshop Registration**](https://events.humanitix.co.nz/environmental-dna-workshop)
+
+Please [email Hugh](mailto:hugh.cross@otago.ac.nz) for more information.
 
 Here is an initial guide of costs:
 
 | **Event** | **Cost** | **Includes** |
-| Symposium only | ~$180 | registration, lunch and tea for symposium |
-| Metabarcoding Course only | ~$30 | registration in course & lunch on 28th |
+| Symposium only | $180 | registration, lunch and tea for symposium |
+| Metabarcoding Course only | $32 | registration in course & lunch on 28th |
 | Pre-workshop Intro to Bioinformatics | No charge | course on 25th (no lunch provided) |
 
 ## Submit Abstracts
