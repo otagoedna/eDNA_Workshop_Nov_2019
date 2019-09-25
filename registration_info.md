@@ -13,7 +13,9 @@ Here is an initial guide to costs:
 
 ## Submit Abstracts
 
-To submit your abstract, click on the following link:
+We welcome abstracts from researchers at all levels. Presentations will be twenty minutes. If all speaking slots fill up, we may create a poster session in order to hear about as much research as possible. 
+
+To submit your abstract, you can click on the following link, or [just email it to me directly](mailto:hugh.cross@otago.ac.nz). Be sure to include the title, and all co-author names and institutions. 
 
 [**Abstract Submission Link**](https://easychair.org/conferences/?conf=edna2019)
 
@@ -24,4 +26,21 @@ Please [email Hugh](mailto:hugh.cross@otago.ac.nz) if you have any questions.
 ## Accommodation
 
 Our recommended lodging is [St. Margarets College](https://stmargarets.college/conference/accommodation/), which is on campus and close to all events.
+
+### Other places to stay in Dunedin:
+
+[**Amross Motel**](https://www.amrossmotel.co.nz/)
+
+[**Aurora on George**](https://www.auroradunedin.co.nz/)
+
+[**Cable Court Motel**](https://www.cablecourtmotel.co.nz/)
+
+[**Heritage Dunedin Leisure Lodge**](https://www.heritagehotels.co.nz/heritage-dunedin)
+
+[**Victoria Hotel Dunedin**](https://www.victoriahoteldunedin.com/)
+
+[**Aria on Bank**](https://www.ariaonbank.co.nz/)
+
+
+
 
