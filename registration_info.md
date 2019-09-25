@@ -29,6 +29,14 @@ Our recommended lodging is [St. Margarets College](https://stmargarets.college/c
 
 ### Other places to stay in Dunedin:
 
+#### On campus:
+
+[**University of Otago Accommodation Page**](https://www.otago.ac.nz/accommodation/short-term/otago-155829.html)
+
+In addition to [**St. Margarets**](https://stmargarets.college/conference/accommodation/), **Arana College** and **University College** have guest rooms. Go to [**this link**](https://www.otago.ac.nz/accommodation/short-term/otago-155829.html#arana) for contact information.
+
+#### Off campus:
+
 [**Amross Motel**](https://www.amrossmotel.co.nz/)
 
 [**Aurora on George**](https://www.auroradunedin.co.nz/)
