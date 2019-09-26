@@ -8,7 +8,9 @@ The [Otago eDNA Research Group](https://otagoedna.github.io/) at the [University
 
 The aim of the meeting is to catch up on aspects of environmental DNA, focusing on metabarcoding and metagenomic methods. We hope this will be a good opportunity for students from New Zealand and Australia to catch up on the latest developments, meet with leaders in the field, and also to present their own research. We are currently planning eight sessions of talks spread over two days, with each led by an experienced researcher. 
 
-## Confirmed Speakers
+## Featured Speakers
+
+* [Mike Bunce, New Zealand Environmental Protection Authority](https://www.epa.govt.nz/)
 
 * [Dianne Gleeson, University of Canberra, Canberra, Australia](https://researchprofiles.canberra.edu.au/en/persons/dianne-gleeson)
 
