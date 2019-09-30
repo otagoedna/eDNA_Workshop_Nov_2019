@@ -4,7 +4,7 @@ Please go to the following page to register:
 
 [**eDNA Workshop Registration**](https://events.humanitix.co.nz/environmental-dna-workshop)
 
-Here is an initial guide to costs:
+Here is an initial guide to costs (all in New Zealand dollars):
 
 | **Event** | **Cost** | **Includes** |
 | Symposium only | $180 | registration, lunch and tea for symposium |
@@ -15,7 +15,7 @@ Here is an initial guide to costs:
 
 We welcome abstracts from researchers at all levels. Presentations will be twenty minutes. If all speaking slots fill up, we may create a poster session in order to hear about as much research as possible. 
 
-To submit your abstract, you can click on the following link, or [just email it to me directly](mailto:hugh.cross@otago.ac.nz). Be sure to include the title, and all co-author names and institutions. 
+To submit your abstract, you can click on the following link, or [just email it to me directly](mailto:hugh.cross@otago.ac.nz). Be sure to include the title, and all co-author names and institutions. Please limit your abstract to 250 words.
 
 [**Abstract Submission Link**](https://easychair.org/conferences/?conf=edna2019)
 
