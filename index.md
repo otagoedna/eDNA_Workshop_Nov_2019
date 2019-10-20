@@ -1,8 +1,26 @@
-# ANNOUNCEMENT
+# Updates
 
-The [Otago eDNA Research Group](https://otagoedna.github.io/) at the [University of Otago](https://www.otago.ac.nz/) will be hosting a meeting to bring together researchers at all levels to discuss research on metabarcoding and environmental DNA. Invited speakers from across Australia and New Zealand will present their research. We will soon open the site to receive abstracts for anyone interested in sharing their research. As well, a course on new bioinformatic methods in metabarcoding will be taught on the last day. This event is scheduled for 25-28th of November, 2019.
+### Student talks
+
+**We will be having *Lightning Round* presentations of five minute talks, for those who have preliminary or proposed data to present, and do not need the full time. Please indicate *Lightning* on your abstract submission or just [email me](mailto:hugh.cross@otago.ac.nz) which format you prefer. This is open to anyone.
+
+### Deadlines approaching!
+
+**Please submit abstracts by 25th October.** You can use the EasyChair website, or just [email me](mailto:hugh.cross@otago.ac.nz).
+
+**Early bird registration ends 25th October.** [Go to this link](https://events.humanitix.co.nz/environmental-dna-workshop), or head to the [registration page](registration_info.md).
+
+**There are limited spaces for Metabarcoding course**, so better to sign up sooner than later. We will try to accommodate everyone.
+
+### Conference Dinner
+
+We will be having a conference dinner on the evening of the 26th (first day of symposium). There is no extra cost. It is included in the registration fee. 
 
 ![alt text](images/seal_closeup_smaller.jpg)
+
+### Meeting Overview
+
+The [Otago eDNA Research Group](https://otagoedna.github.io/) at the [University of Otago](https://www.otago.ac.nz/) will be hosting a meeting to bring together researchers at all levels to discuss research on metabarcoding and environmental DNA. Invited speakers from across Australia and New Zealand will present their research. We will soon open the site to receive abstracts for anyone interested in sharing their research. As well, a course on new bioinformatic methods in metabarcoding will be taught on the last day. This event is scheduled for 25-28th of November, 2019.
 
 **Objective of Meeting**
 
