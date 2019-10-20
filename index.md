@@ -2,7 +2,7 @@
 
 ### Student talks
 
-We will be having *Lightning Round* presentations of five minute talks, for those who have preliminary or proposed data to present, and do not need the full time. Please indicate *Lightning* on your abstract submission or just [email me](mailto:hugh.cross@otago.ac.nz) which format you prefer. This is open to anyone.
+We will be having **Lightning Round** presentations of five minute talks, for those who have preliminary or proposed data to present, and do not need the full time. Please indicate *Lightning* on your abstract submission or just [email me](mailto:hugh.cross@otago.ac.nz) which format you prefer. This is open to anyone.
 
 ### Deadlines approaching!
 
