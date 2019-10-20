@@ -14,7 +14,7 @@ We will be having **Lightning Round** presentations of five minute talks, for th
 
 ### Conference Dinner
 
-We will be having a conference dinner on the evening of the 26th (first day of symposium). There is no extra cost. It is included in the registration fee. 
+We will be having a conference dinner on the evening of the 26th (first day of symposium). There is no extra cost. It will be included in the registration fee. 
 
 ![alt text](images/seal_closeup_smaller.jpg)
 
