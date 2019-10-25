@@ -1,16 +1,18 @@
 # Updates
 
+### Deadlines extended
+
+We have extended the registration and abstract submission deadlines. They are now due by **1 November.**
+
+**Please submit abstracts by 1st November.** You can use the EasyChair website, or just [email me](mailto:hugh.cross@otago.ac.nz). Speaking slots are filling up, though, so please let me know ASAP if you would like to present. We will do our best to accommodate you.
+
+**Early bird registration ends 1st November.** [Go to this link](https://events.humanitix.co.nz/environmental-dna-workshop), or head to the [registration page](registration_info.md) for more information.
+
+**There are limited spaces for Metabarcoding course**, so better to sign up sooner than later. We will try to accommodate everyone.
+
 ### Student talks
 
 We will be having **Lightning Round** presentations of five minute talks, for those who have preliminary or proposed data to present, and do not need the full time. Please indicate *Lightning* on your abstract submission or just [email me](mailto:hugh.cross@otago.ac.nz) which format you prefer. This is open to anyone.
-
-### Deadlines approaching!
-
-**Please submit abstracts by 25th October.** You can use the EasyChair website, or just [email me](mailto:hugh.cross@otago.ac.nz).
-
-**Early bird registration ends 25th October.** [Go to this link](https://events.humanitix.co.nz/environmental-dna-workshop), or head to the [registration page](registration_info.md).
-
-**There are limited spaces for Metabarcoding course**, so better to sign up sooner than later. We will try to accommodate everyone.
 
 ### Conference Dinner
 
