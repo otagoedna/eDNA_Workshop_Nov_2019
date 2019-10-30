@@ -4,7 +4,7 @@ Please go to the following page to register:
 
 [**eDNA Workshop Registration**](https://events.humanitix.co.nz/environmental-dna-workshop)
 
-**Early Bird Registration Deadline is 25 October**
+**Early Bird Registration Deadline is 1 November**
 
 Here is an initial guide to costs (all in New Zealand dollars):
 
@@ -15,13 +15,7 @@ Here is an initial guide to costs (all in New Zealand dollars):
 
 ## Submit Abstracts
 
-We welcome abstracts from researchers at all levels. Presentations will be twenty minutes. If all speaking slots fill up, we may create a poster session in order to hear about as much research as possible. Please submit your abstract by **25 October**
-
-To submit your abstract, you can click on the following link, or [just email it to me directly](mailto:hugh.cross@otago.ac.nz). Be sure to include the title, and all co-author names and institutions. Please limit your abstract to 250 words.
-
-[**Abstract Submission Link**](https://easychair.org/conferences/?conf=edna2019)
-
-After you submit your abstract we will be in touch
+All speaking slots are filled, but if you would like to present your research, [email Hugh](mailto:hugh.cross@otago.ac.nz) and we will try to accommodate you. 
 
 Please [email Hugh](mailto:hugh.cross@otago.ac.nz) if you have any questions.
 
