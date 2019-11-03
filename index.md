@@ -2,7 +2,7 @@
 
 ### Deadlines extended
 
-We have extended the registration deadline. It is now due by **1 November.**
+We still have space for the symposium registration. It will now close by **8 November.**
 
 **Abstract submission is now closed** We have filled all spaces, but if you still want to present please [email Hugh](mailto:hugh.cross@otago.ac.nz) and we will try to accommodate you.
 
