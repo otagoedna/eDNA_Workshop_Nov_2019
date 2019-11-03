@@ -6,9 +6,11 @@ We have extended the registration deadline. It is now due by **1 November.**
 
 **Abstract submission is now closed** We have filled all spaces, but if you still want to present please [email Hugh](mailto:hugh.cross@otago.ac.nz) and we will try to accommodate you.
 
+**The Metabarcoding course is now full**, but [**email us**](mailto:hugh.cross@otago.ac.nz) and will try to accommodate you.
+
 **Early bird registration ends 1st November.** [Go to this link](https://events.humanitix.co.nz/environmental-dna-workshop), or head to the [registration page](registration_info.md) for more information.
 
-**There are limited spaces for Metabarcoding course**, so better to sign up sooner than later. We will try to accommodate everyone.
+
 
 ### Conference Dinner
 
