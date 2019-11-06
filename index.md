@@ -8,7 +8,7 @@ We still have space for the symposium registration. It will now close by **8 Nov
 
 **The Metabarcoding course is now full**, but [**email us**](mailto:hugh.cross@otago.ac.nz) and will try to accommodate you.
 
-**Early bird registration ends 1st November.** [Go to this link](https://events.humanitix.co.nz/environmental-dna-workshop), or head to the [registration page](registration_info.md) for more information.
+**Early bird registration ends 8 November.** [Go to this link](https://events.humanitix.co.nz/environmental-dna-workshop), or head to the [registration page](registration_info.md) for more information.
 
 
 
