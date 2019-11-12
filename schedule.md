@@ -48,8 +48,8 @@
 | 13:45 - 14:05 | Ian Dickie | *Sampling land-use intensification and biodiversity;<br> patterns and method considerations* |
 | 14:05 - 14:25 | Sarah Sapsford | *Pine invasion drives loss of soil fungal diversity* |
 | 14:25 - 14:45 | Andrew Cridge | *Using environmental DNA to identify<br> and monitor new plant incursions into New Zealand* |
-| 14:45 - 15:05 | Hugh Cross | *Changes across time in Nordic forest fungal communities* |
-| 15:05 - 15:25 | Sebastian Vadillo Gonzalez | *Investigating the microbial communities<br> in sediment bioturbator burrows and links to nutrient cycling* |
+| 14:45 - 15:05 | Hugh Cross | *Changes across time in Nordic<br> forest fungal communities* |
+| 15:05 - 15:25 | Sebastian Vadillo Gonzalez | *Investigating the microbial communities in<br> sediment bioturbator burrows and links to nutrient cycling* |
 | 15:25 - 15:45 | Megan Devane | *Investigating shifts in the bacterial community<br> of decomposing cowpats and their impacts on<br> water quality monitoring* |
 | 15:45 - 16:00 | **Closing Remarks** |
 
