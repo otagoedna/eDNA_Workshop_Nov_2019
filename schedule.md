@@ -30,3 +30,29 @@
 | 16:20 - 16:40 | Katie Brasell | *Sedimentary DNA for molecular analysis:<br> how does medium-term storage impact<br> DNA quality and quantity?* |
 | 16:40 - 17:00 | Dana Clark | *Environmental metabarcoding as a novel<br> tool for coastal management* |
 
+### Wednesday, 27 November
+
+| Time  | Speaker | Title |
+| :---  | :---:   | :---: |
+| 9:30 - 9:50 | Dianne Gleeson | *Striking the balance between technology advancement and standardisation for eDNA applications* |
+| 9:50 - 10:10 | Sophie Mazard | *Collaborative national open-data initiatives to support eDNA research* |
+| 10:10 - 10:30 | Paul Czechowski | *Implementations of Large Scale Biodiversity Surveys Using eDNA* |
+|  10:30 - 11:00 | **Morning Tea**  |
+| 11:00 - 11:20 | Susie Wood | *Traversing time: combining eDNA with hyperspectral scanning and traditional paleolimnological techniques to explore historic lake communities* |
+| 11:20 - 11:40 | Maïlys Picard | *Mud Chronicles: exploring the effect of historical land-use changes on lake microbial communities* |
+| 11:40 - 12:00 | John Pearman | *Stairway to heaven: exploring microbial communities in lake sediment along an elevational gradient* |
+| 12:00 - 12:20 | Georgia Thomson-Laing | *Slippery business: using environmental DNA to detect long-and short-finned tuna (eel)* |
+| 12:20 - 12:25 | Lena Schallenberg | *Unravelling picocyanobacterial diversity and dynamics in contrasting New Zealand lakes using eDNA metabarcoding* |
+| 12:25 - 12:45 | Laura Kelly | *Finding Nemo: Using eDNA metabarcoding to characterise New Zealand freshwater fish communities* |
+| 12:45 - 13:45 | **Lunch** |
+| 13:45 - 14:05 | Ian Dickie | *Sampling land-use intensification and biodiversity; patterns and method considerations* |
+| 14:05 - 14:25 | Sarah Sapsford | *Pine invasion drives loss of soil fungal diversity* |
+| 14:25 - 14:45 | Andrew Cridge | *Using environmental DNA to identify and monitor new plant incursions into New Zealand* |
+| 14:45 - 15:05 | Hugh Cross | *Changes across time in Nordic forest fungal communities* |
+| 15:05 - 15:25 | Sebastian Vadillo Gonzalez | *Investigating the microbial communities in sediment bioturbator burrows and links to nutrient cycling* |
+| 15:25 - 15:45 | Megan Devane | *Investigating shifts in the bacterial community of decomposing cowpats and their impacts on water quality monitoring* |
+| 15:45 - 16:00 | **Closing Remarks** |
+
+
+
+
