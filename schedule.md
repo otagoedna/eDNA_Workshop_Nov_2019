@@ -17,9 +17,9 @@
 | 13:30 - 13:50 | Tina Summerfield | *Microbial community assembly and responses<br> to oceanic climate change in the South Pacific Gyre* |
 | 13:50 - 14:10 | Sue Vern Song | *Environmental DNA sampling as an effective tool<br> for assessing estuarine fish communities* |
 | 14:10 - 14:30 | Hawis Madduppa | *Life below Anthropocene waters: detecting<br> shark and rays across Indonesian reef system<br> using environmental DNA* |
-| 14:30 -14:35 | Hannah Heynderickx | *Impact of Ocean Acidification on phytoplankton and bacteria interactions* |
-| 14:35 - 14:40 | Clare Adams | *Can haplotypes be recovered from environmental DNA?* |
-| 14:40 - 15:00 | Aimee van der Reis | *Diet of opportunistic benthic generalists help to unravel deep-sea food webs* |
+| 14:30 -14:35 | Hannah Heynderickx | *Impact of Ocean Acidification on phytoplankton<br> and bacteria interactions* |
+| 14:35 - 14:40 | Clare Adams | *Can haplotypes be recovered from <br>environmental DNA?* |
+| 14:40 - 15:00 | Aimee van der Reis | *Diet of opportunistic benthic generalists help<br> to unravel deep-sea food webs* |
 | 15:00 - 15:30 | **Afternoon Tea** | |
 
 
