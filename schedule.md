@@ -1,5 +1,7 @@
 # Symposium Schedule
 
+### Tuesday, 26 November
+
 | Time  | Speaker | Title |
 | :---  | :---:   | :---: |
 | 9:00 - 9:30 | **Registration** |  |
@@ -21,6 +23,10 @@
 | 14:35 - 14:40 | Clare Adams | *Can haplotypes be recovered from <br>environmental DNA?* |
 | 14:40 - 15:00 | Aimee van der Reis | *Diet of opportunistic benthic generalists help<br> to unravel deep-sea food webs* |
 | 15:00 - 15:30 | **Afternoon Tea** | |
-
-
+| 15:30 - 15:50 | Anastasija Zaiko | *Molecular tools for marine biosecurity:<br> applications, advantages, limitations<br> and way forward* |
+| 15:50 - 16:10 | Ulla Ammon | *Steppingstones: Transferring molecular<br> biosecurity capability from<br> New Zealand to Tahiti* |
+| 16:10 - 16:15 | Francois Audrezet | *Elucidating marine biofouling recruitment<br> on biodegradable polymers augmented<br> with oyster shell filler* |
+| 16:15 - 16:20 | Adria Eda | *Does the cutaneous microbiome of the native<br> New Zealand frog confer protection<br> against Batrachochytrium dendrobatidis?* |
+| 16:20 - 16:40 | Katie Brasell | *Sedimentary DNA for molecular analysis:<br> how does medium-term storage impact<br> DNA quality and quantity?* |
+| 16:40 - 17:00 | Dana Clark | *Environmental metabarcoding as a novel<br> tool for coastal management* |
 
