@@ -17,12 +17,12 @@ All events will be University of Otago, Dunedin
 
 | Time | Event | Location |
 | :---  | :---:   | :---: |
-| 9:00 - 9:30 | Registration | Archway 1 |
-| 9:30 - 9:40 | Welcome | Archway 1 |
-| 9:40 - 10:10 | Keynote: Mike Bunce | Archway 1 |
-| 10:10 - 12:30 | [**Morning Symposium**](tuesday_symposium.md) | Archway 1 |
+| 9:00 - 9:30 | Registration | Archway 2 |
+| 9:30 - 9:40 | Welcome | Archway 2 |
+| 9:40 - 10:10 | Keynote: Mike Bunce | Archway 2 |
+| 10:10 - 12:30 | [**Morning Symposium**](tuesday_symposium.md) | Archway 2 |
 | 12:30 - 13:30 | Lunch | Staff Club |
-| 13:30 - 17:00 | [**Afternoon Symposium**](tuesday_symposium.md) | Archway 1 |
+| 13:30 - 17:00 | [**Afternoon Symposium**](tuesday_symposium.md) | Archway 2 |
 | 18:00 - 21:00 | Conference Dinner | St Margarets College |
 
 ### Wednesday, 27 November
@@ -31,9 +31,9 @@ All events will be University of Otago, Dunedin
 
 | Time | Event | Location |
 | :---  | :---:   | :---: |
-| 9:30 - 12:45 | [**Morning Symposium**](wednesday_symposium.md) | Archway 1 |
+| 9:30 - 12:45 | [**Morning Symposium**](wednesday_symposium.md) | Archway 2 |
 | 12:45 - 13:45 | Lunch | Staff Club |
-| 13:45 - 16:00 | [**Afternoon Symposium**](wednesday_symposium.md) | Archway 1 |
+| 13:45 - 17:00 | [**Afternoon Symposium**](wednesday_symposium.md) | Archway 2 |
 
 ### Thursday, 28 November
 
