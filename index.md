@@ -1,16 +1,24 @@
 # Updates
 
-### Deadlines extended
+### Schedule of talks now available
 
-We still have space for the symposium registration. It will now close by **8 November.**
+[**Link to main schedule**](schedule.md)
+
+[**Link to Tuesday talks**](tuesday_symposium.md)
+
+[**Link to Wednesday talks**](wednesday_symposium.md)
+
+**Note to all speakers: please [email me](mailto:hugh.cross@otago.ac.nz) right away if you do not see your talk, or there is a problem*
+
+### Deadlines
+
+We still have space for the symposium registration. please [email Hugh](mailto:hugh.cross@otago.ac.nz) soon, as we have to give final numbers to catering.
 
 **Abstract submission is now closed** We have filled all spaces, but if you still want to present please [email Hugh](mailto:hugh.cross@otago.ac.nz) and we will try to accommodate you.
 
 **The Metabarcoding course is now full**, but [**email us**](mailto:hugh.cross@otago.ac.nz) and will try to accommodate you.
 
 **Early bird registration ends 8 November.** [Go to this link](https://events.humanitix.co.nz/environmental-dna-workshop), or head to the [registration page](registration_info.md) for more information.
-
-
 
 ### Conference Dinner
 
@@ -47,15 +55,4 @@ Registration and abstract submission are now open. Go this link to register and 
 [**eDNA Workshop Registration Page**](registration_info.md)
 
 
-## Preliminary Schedule 
 
-A symposium will be held on the 26th and 27th of November, covering a wide range of topics. On the 28th an all-day course will be given on bioinformatic methods for metabarcoding data. The 25th of November will be an optional day for students and researchers that need to learn basic bioinformatic tools (command line and R) that will be needed for the Metabarcoding course. 
-
-Day | Title |
-----|-----|
-25 November | Intro to Bioinformatic Tools for Metabarcoding |
-26 November | Environmental DNA Symposium, Day 1 |
-27 November | Environmental DNA Symposium, Day 2 |
-28 November | Bioinformatic Methods in Metabarcoding Course |
-
-**More details will be coming soon!**
