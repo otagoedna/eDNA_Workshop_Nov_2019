@@ -11,7 +11,7 @@
 | 11:20 - 11:40 | Jo Stanton | *Looking for pathogens using real time DNA analysis:<br> sample preparation and sequencing technology<br> at the point-of-need (PoN).* |
 | 11:40 - 11:45 | Kristen Fernandes | *Assessing the impacts of urbanisation on the<br> foraging habits of Australian cavity nesting<br> bees using DNA metabarcoding.* |
 | 11:45 - 11:50 | Sindy Luu	| *Investigating the subsistence strategies of<br> ancient Kiowa, Papua New Guinea Highlands, <br>via bulk bone metabarcoding strategies.* |
-| 11:50 - 12:10 | Gert-Jan Jeunen	| TBA |
+| 11:50 - 12:10 | Gert-Jan Jeunen	| *Detecting novel invasion fronts through<br> environmental DNA (eDNA) metabarcoding<br> surveys: a case study in Belarussian rivers.* |
 | 12:10 - 12:30 | Shaun Wilkinson	| *Model-based taxon assignment for environmental DNA* |
 | 12:30 - 1:30 | **Lunch** | |
 | 13:30 - 13:50 | Tina Summerfield | *Microbial community assembly and responses<br> to oceanic climate change in the South Pacific Gyre* |
