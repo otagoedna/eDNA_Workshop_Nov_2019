@@ -6,7 +6,7 @@
 | 9:50 - 10:10 | Sophie Mazard | *Collaborative national open-data<br> initiatives to support eDNA research* |
 | 10:10 - 10:30 | Paul Czechowski | *Implementations of Large Scale<br> Biodiversity Surveys Using eDNA* |
 |  10:30 - 11:00 | **Morning Tea**  |
-| 11:00 - 11:20 | Susie Wood | *Traversing time: combining eDNA with hyperspectral<br> scanning and traditional paleolimnological techniques<br> to explore historic lake communities* |
+| 11:00 - 11:20 | Susie Wood | *Traversing time: combining eDNA with<br> hyperspectral scanning and traditional<br> paleolimnological techniques to<br> explore historic lake communities* |
 | 11:20 - 11:40 | Maïlys Picard | *Mud Chronicles: exploring the effect of<br> historical land-use changes on<br> lake microbial communities* |
 | 11:40 - 12:00 | John Pearman | *Stairway to heaven: exploring microbial<br> communities in lake sediment along<br> an elevational gradient* |
 | 12:00 - 12:20 | Georgia Thomson-Laing | *Slippery business: using environmental DNA<br> to detect long-and short-finned tuna (eel)* |
