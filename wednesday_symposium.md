@@ -4,7 +4,7 @@
 | :---  | :---:   | :---: |
 | 9:30 - 9:50 | Dianne Gleeson | *Striking the balance between technology<br> advancement and standardisation<br> for eDNA applications* |
 | 9:50 - 10:10 | Sophie Mazard | *Collaborative national open-data<br> initiatives to support eDNA research* |
-| 10:10 - 10:30 | Austen Ganley | *Towards a national hub<br> database for sharing eDNA data* |
+| 10:10 - 10:30 | Austen Ganley | *A web hub for national sharing<br> of environmental DNA data* |
 |  10:30 - 11:00 | **Morning Tea**  |
 | 11:00 - 11:20 | Susie Wood | *Traversing time: combining eDNA with<br> hyperspectral scanning and traditional<br> paleolimnological techniques to<br> explore historic lake communities* |
 | 11:20 - 11:40 | Maïlys Picard | *Mud Chronicles: exploring the effect of<br> historical land-use changes on<br> lake microbial communities* |
