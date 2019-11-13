@@ -17,7 +17,7 @@ All events will be University of Otago, Dunedin
 
 | Time | Event | Location |
 | :---  | :---:   | :---: |
-| 9:00 - 9:30 | Registration | Archway 2 |
+| 9:00 - 9:30 | Registration | [Archway 2](https://goo.gl/maps/1kh9KipARaU3ZJWo9) |
 | 9:30 - 9:40 | Welcome | Archway 2 |
 | 9:40 - 10:10 | Keynote: Mike Bunce | Archway 2 |
 | 10:10 - 12:30 | [**Morning Symposium**](tuesday_symposium.md) | Archway 2 |
