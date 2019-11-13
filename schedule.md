@@ -6,10 +6,10 @@ All events will be University of Otago, Dunedin
 
 | Time | Event | Location (Click on location to get map) |
 | :---  | :---:   | :---: |
-| 9:00 - 9:30 | Prepare for bioinformatics courses | [Business School: OBS118](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
-| 9:30 - 12:30 | Intro to Bioinformatic Tools:<br>Command Line | [Business School: OBS118](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
+| 9:00 - 9:30 | Prepare for bioinformatics courses | [Business School: OBS119](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
+| 9:30 - 12:30 | Intro to Bioinformatic Tools:<br>Command Line | [Business School: OBS119](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
 | 12:30 - 13:30 | **Lunch** | On your own | 
-| 13:30 - 16:30 | Intro to Bioinformatic Tools:<br>Learning R | [Business School: OBS118](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
+| 13:30 - 16:30 | Intro to Bioinformatic Tools:<br>Learning R | [Business School: OBS119](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
 
 ### Tuesday, 26 November
 
@@ -39,9 +39,9 @@ All events will be University of Otago, Dunedin
 
 | Time | Event | Location (Click on location to get map) |
 | :---  | :---:   | :---: |
-| 9:00 - 9:30 | Help with preparation for course | [Business School: OBS118](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
-| 9:30 - 12:30 | Metabarcoding Course | [Business School: OBS118](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
+| 9:00 - 9:30 | Help with preparation for course | [Business School: OBS119](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
+| 9:30 - 12:30 | Metabarcoding Course | [Business School: OBS119](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
 | 12:30 - 13:30 | Lunch | [Business School, first floor](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
-| 13:30 - 17:00 | Metabarcoding Course, continued | [Business School: OBS118](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
+| 13:30 - 17:00 | Metabarcoding Course, continued | [Business School: OBS119](https://goo.gl/maps/y3qr7jiQD7f3UkMW7) |
 
 
