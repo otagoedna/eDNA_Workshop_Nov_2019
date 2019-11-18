@@ -19,7 +19,7 @@
 | 14:10 - 14:30 | Hawis Madduppa | *Life below Anthropocene waters: detecting<br> shark and rays across Indonesian reef system<br> using environmental DNA* |
 | 14:30 -14:35 | Hannah Heynderickx | *Impact of Ocean Acidification on phytoplankton<br> and bacteria interactions* |
 | 14:35 - 14:40 | Clare Adams | *Can haplotypes be recovered from <br>environmental DNA?* |
-| 14:40 - 14:45 | Andrew Douglas | *TBA* |
+| 14:40 - 14:45 | Andrew Douglas | *Soil microbiomes in a warming climate* |
 | 14:45 - 15:05 | Aimee van der Reis | *Diet of opportunistic benthic generalists help<br> to unravel deep-sea food webs* |
 | 15:05 - 15:30 | **Afternoon Tea** | |
 | 15:30 - 15:50 | Anastasija Zaiko | *Molecular tools for marine biosecurity:<br> applications, advantages, limitations<br> and way forward* |
